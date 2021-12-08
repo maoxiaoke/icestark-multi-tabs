@@ -12,7 +12,6 @@
     "react-dom": "^16.4.1"
   },
   "devDependencies": {
-    "@ali/build-plugin-ice-def": "^0.1.0",
     "@iceworks/spec": "^1.0.0",
     "@types/path-to-regexp": "^1.7.0",
     "build-plugin-fusion": "^0.1.0",
